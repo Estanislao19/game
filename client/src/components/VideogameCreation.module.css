@@ -1,0 +1,104 @@
+.crea{
+    background-image: url(https://www.abc.es/xlsemanal/wp-content/uploads/sites/5/2021/07/confesiones-de-un-hacker.jpg);
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    margin: 0px;
+    padding: 0px;
+    width: 100%;
+    height: 120%;
+    position: absolute;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.btn{
+    flex-direction: row;
+  flex-wrap: wrap;
+  align-items: stretch;
+  justify-content: space-evenly;
+  appearance: initial;
+  font-style: normal;
+  font-size: large;
+  font-family: monospace;
+  color: white;
+  word-spacing: normal;
+  text-transform: capitalize;
+  box-sizing: border-box;
+  background-color: blue;
+  padding: 10px;
+  border-width: 6px;
+  border-radius: 50px;
+  border-style: outset;
+    
+}
+
+.tit{
+    
+    display: inline-block;
+    text-align: left;
+    font-family: monospace;
+    font-size: 40px;
+    color: #0092fa;
+    text-shadow: 0px 0px 9px #50d350;
+}
+.form{
+  border: solid 1px;
+  padding-bottom: 20px;
+  backdrop-filter: blur(10px);
+  text-decoration:none;
+  text-align: center;
+  padding:50px;
+  border: 15.5px solid rgb(25, 129, 133);
+  font-size: 25px;
+  font-family: 'Quicksand', sans-serif;
+  box-shadow: 5px 1px 10px rgba(0,0,0,0.2);
+  transition: all 250ms ease;
+        
+}
+.nam{
+    height: 20px;
+    border-radius: 20px;
+    
+    font-size: 25px;
+    color:rgb(5, 184, 255);
+    text-shadow: 1px 1px rgb(17, 16, 16);
+}
+.select{
+    width:180px;
+	padding:3px 10px;
+	border:1px solid rgb(9, 17, 17);
+	border-radius:3px;
+	background-color:rgb(25, 143, 143);
+	margin:8px 0;
+	display:inline-block;
+    margin-left: 40px;
+}
+.sele{
+    width:180px;
+	padding:3px 10px;
+	border:1px solid rgb(9, 17, 17);
+	border-radius:3px;
+	background-color:rgb(25, 143, 143);
+	margin:8px 0;
+	display:inline-block;
+    margin-left: 40px;
+}
+.btnn{
+    flex-direction: row;
+  flex-wrap: wrap;
+  align-items: stretch;
+  justify-content: space-evenly;
+  appearance: initial;
+  font-style: normal;
+  font-size: large;
+  font-family: monospace;
+  color: rgb(5, 3, 3);
+  word-spacing: normal;
+  text-transform: capitalize;
+  box-sizing: border-box;
+  background-color: rgb(255, 0, 0);
+  padding: 10px;
+  border-width: 6px;
+  border-radius: 50px;
+  border-style: outset;
+}

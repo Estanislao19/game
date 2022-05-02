@@ -1,0 +1,41 @@
+.sea{
+   display: flex;
+    flex-direction: row;
+    height: 50px;
+    align-items: center;
+    justify-content: center;
+    
+}
+.inp{
+    appearance: initial;
+    
+    font-style:normal;
+    font-size: large;
+    font-family: monospace;
+    color: rgba(12, 3, 3, 0.89);
+    word-spacing: normal;
+    text-transform: capitalize;
+    box-sizing: border-box;
+    background-color: rgba(173, 218, 12, 0.811);
+    padding: 5px;
+    border-width: 5px;
+    border-radius: 40px;
+    border-style: outset;
+}
+.btn{
+    appearance: initial;
+    
+    font-style:normal;
+    font-size: large;
+    font-family: monospace;
+    color: white;
+    word-spacing: normal;
+    text-transform: capitalize;
+    box-sizing: border-box;
+    background-color: rgba(173, 218, 12, 0.811);
+    padding: 5px;
+    border-width: 6px;
+    border-radius: 50px;
+    border-style: outset;
+
+}
